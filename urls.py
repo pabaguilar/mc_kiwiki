@@ -1,8 +1,8 @@
 config = {
-    "wiki_url": "http://wiki:8001/wikis",
-    "entry_url": "http://entry:8002/entries",
-    "commentary_url": "http://commentaries:8003/commentaries",
+    "wiki_url": "https://microserviciowiki-production.up.railway.app/",
+    "entry_url": "https://microserviceswikientry-production.up.railway.app/",
+    "commentary_url": "https://kiwikibackcommentaries-production.up.railway.app/",
     "notification_url": "http://notifications:8004/notification",
-    "version_url": "http://version:8005/versions",
-    "user_url": "http://user:8006/users"
+    "version_url": "https://microservicioversion-production.up.railway.app/",
+    "user_url": "https://kiwikibackuser-production.up.railway.app/"
 }
